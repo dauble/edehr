@@ -40,7 +40,7 @@
     "qs": "^6.9.4",
     "sass": "^1.43.5",
     "valid-filename": "^3.1.0",
-    "vue": "^2.6.14",
+    "vue": "^3.0.0",
     "vue-autosuggest": "^2.2.0",
     "vue-moment": "^4.1.0",
     "vue-router": "^3.5.3",
